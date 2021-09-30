@@ -18,7 +18,7 @@
   - A challenge I faced during this project was correctly manipulating the DOM after a random mantra or affirmation was chosen. Every time one was chosen the text would appear off center. I learned that by adding a class name and a rule in CSS allowed things added after manipulation to follow styling rules. 
 
 
-## Project Spec and Rubric:
+## Project Spec and Deploy:
 Project spec [here](https://frontend.turing.edu/projects/module-1/self-care-center.html)<br>
 Deploy link [here](https://isleofyou.github.io/self-care-center/)
 ## Technologies used:
