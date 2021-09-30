@@ -19,8 +19,8 @@
 
 
 ## Project Spec and Rubric:
-Project Spec [here](https://frontend.turing.edu/projects/module-1/self-care-center.html)<br>
-
+Project spec [here](https://frontend.turing.edu/projects/module-1/self-care-center.html)<br>
+Deploy link [here](https://isleofyou.github.io/self-care-center/)
 ## Technologies used:
   - Javascript
   - CSS
