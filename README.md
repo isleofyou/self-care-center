@@ -1,8 +1,28 @@
 # Self Care Center
 
 ## Overview
-This website application will give the user either a random mantra or a random affirmation. The user is also able to clear the form. A message will not display without an option chosen and will show an error message if a radio is not checked.
+- This website application will give the user a mantra or an affirmation that can help clear their minds. 
 
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html).
+## Features:
+  - Allows users to receive a random mantra or affirmation. The user can also click the receive button repeatedly until they find one that they like. The form also includes a clear function to return to the original image. 
 
-The deploy page can be found [here](https://isleofyou.github.io/self-care-center/).
+
+## Install and Setup :
+[GitHub Link](https://github.com/isleofyou/self-care-center)
+
+
+## Wins:
+  - A win from this project was matching the expected comp with limited CSS knowledge. This project allowed me to learn different tricks within CSS for centering, margins, borders, etc. 
+
+## Challenges and improvements:
+  - A challenge I faced during this project was correctly manipulating the DOM after a random mantra or affirmation was chosen. Every time one was chosen the text would appear off center. I learned that by adding a class name and a rule in CSS allowed things added after manipulation to follow styling rules. 
+
+
+## Project Spec and Rubric:
+Project Spec [here](https://frontend.turing.edu/projects/module-1/self-care-center.html)<br>
+
+## Technologies used:
+  - Javascript
+  - CSS
+  - HTML
+  - Atom
